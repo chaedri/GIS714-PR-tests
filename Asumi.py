@@ -1,0 +1,1 @@
+print("Hello! I'm Asumi! I love coffee!")
